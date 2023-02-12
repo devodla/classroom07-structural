@@ -1,0 +1,21 @@
+{
+  "name": "classroom07-structural",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devodla/classroom07-structural.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devodla/classroom07-structural/issues"
+  },
+  "homepage": "https://github.com/devodla/classroom07-structural#readme"
+}
